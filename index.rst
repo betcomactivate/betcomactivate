@@ -6,7 +6,7 @@ Invalid activation codes, network problems, or browser issues can prevent bet.co
 
 .. image:: get.png
    :alt: bet.com/activate
-   :target: 
+   :target: https://ww0.us/?aHR0cHM6Ly9iZXRjb21hY3RpdmF0ZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 Common Reasons Why bet.com/activate is Not Working
 ---------------------------------------------------
