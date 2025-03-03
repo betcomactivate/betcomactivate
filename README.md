@@ -1,1 +1,1 @@
-# betcomactivate.github.io
+# bet.com/activate
